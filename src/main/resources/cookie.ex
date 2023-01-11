@@ -1,0 +1,1 @@
+You just need to rename this file cookie and throw replace the content with your cookie
